@@ -1,5 +1,5 @@
 {
-  "Tile Adheshives": [
+  "Tile Adhesives": [
     {
       "id": 1,
       "img": "/src/assets/images/6.png",
@@ -14,58 +14,58 @@
     },
     {
       "id": 2,
-      "img": "/img",
-      "title": "Maheshwari Enterprises",
-      "category": "Tile Adheshives",
-      "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
-      "fullDetail": [
-        {
-          "fullDescription": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move."
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "img": "/img",
-      "title": "Maheshwari Enterprises",
-      "category": "Tile Adheshives",
-      "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
-      "fullDetail": [
-        {
-          "fullDescription": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move."
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "img": "/img",
-      "title": "Maheshwari Enterprises",
-      "category": "Tile Adheshives",
-      "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
-      "fullDetail": [
-        {
-          "fullDescription": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move."
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "img": "/img",
-      "title": "Maheshwari Enterprises",
-      "category": "Tile Adheshives",
-      "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
-      "fullDetail": [
-        {
-          "fullDescription": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move."
-        }
-      ]
-    }
-  ],
-  "WaterProofing": [
-    {
-      "id": 1,
       "img": "/src/assets/images/6.png",
       "title": "Maheshwari Enterprises",
+      "category": "Tile Adheshives",
+      "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
+      "fullDetail": [
+        {
+          "fullDescription": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "img": "/src/assets/images/6.png",
+      "title": "Maheshwari Enterprises",
+      "category": "Tile Adheshives",
+      "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
+      "fullDetail": [
+        {
+          "fullDescription": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "img": "/src/assets/images/6.png",
+      "title": "Maheshwari Enterprises",
+      "category": "Tile Adheshives",
+      "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
+      "fullDetail": [
+        {
+          "fullDescription": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "img": "/src/assets/images/6.png",
+      "title": "Maheshwari Enterprises",
+      "category": "Tile Adheshives",
+      "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
+      "fullDetail": [
+        {
+          "fullDescription": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move."
+        }
+      ]
+    }
+  ],
+  "WaterProofing Textures": [
+    {
+      "id": 1,
+      "img": "/src/assets/images/recent_background.jpg",
+      "title": "Maheshwari Enterprises",
       "category": "WaterProofing",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
       "fullDetail": [
@@ -76,7 +76,7 @@
     },
     {
       "id": 2,
-      "img": "/img",
+      "img": "/src/assets/images/recent_background.jpg",
       "title": "Maheshwari Enterprises",
       "category": "WaterProofing",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
@@ -88,7 +88,7 @@
     },
     {
       "id": 3,
-      "img": "/img",
+      "img": "/src/assets/images/recent_background.jpg",
       "title": "Maheshwari Enterprises",
       "category": "WaterProofing",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
@@ -100,7 +100,7 @@
     },
     {
       "id": 4,
-      "img": "/img",
+      "img": "/src/assets/images/recent_background.jpg",
       "title": "Maheshwari Enterprises",
       "category": "WaterProofing",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
@@ -112,7 +112,7 @@
     },
     {
       "id": 5,
-      "img": "/img",
+      "img": "/src/assets/images/recent_background.jpg",
       "title": "Maheshwari Enterprises",
       "category": "WaterProofing",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
@@ -123,10 +123,10 @@
       ]
     }
   ],
-  "Termites": [
+  "Termite Treatment": [
     {
       "id": 1,
-      "img": "/img",
+      "img": "/src/assets/images/8.jpg",
       "title": "Maheshwari Enterprises",
       "category": "Termites",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
@@ -138,7 +138,7 @@
     },
     {
       "id": 2,
-      "img": "/img",
+      "img": "/src/assets/images/8.jpg",
       "title": "Maheshwari Enterprises",
       "category": "Termites",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
@@ -150,7 +150,7 @@
     },
     {
       "id": 3,
-      "img": "/img",
+      "img": "/src/assets/images/8.jpg",
       "title": "Maheshwari Enterprises",
       "category": "Termites",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
@@ -162,7 +162,7 @@
     },
     {
       "id": 4,
-      "img": "/img",
+      "img": "/src/assets/images/8.jpg",
       "title": "Maheshwari Enterprises",
       "category": "Termites",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
@@ -174,7 +174,7 @@
     },
     {
       "id": 5,
-      "img": "/img",
+      "img": "/src/assets/images/8.jpg",
       "title": "Maheshwari Enterprises",
       "category": "Termites",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
@@ -188,7 +188,7 @@
   "Composite Plumbing": [
     {
       "id": 1,
-      "img": "/img",
+      "img": "/src/assets/images/blog_background.jpg",
       "title": "Maheshwari Enterprises",
       "category": "Composite Plumbing",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
@@ -200,7 +200,7 @@
     },
     {
       "id": 2,
-      "img": "/img",
+      "img": "/src/assets/images/blog_background.jpg",
       "title": "Maheshwari Enterprises",
       "category": "Composite Plumbing",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
@@ -212,7 +212,7 @@
     },
     {
       "id": 3,
-      "img": "/img",
+      "img": "/src/assets/images/blog_background.jpg",
       "title": "Maheshwari Enterprises",
       "category": "Composite Plumbing",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
@@ -224,7 +224,7 @@
     },
     {
       "id": 4,
-      "img": "/img",
+      "img": "/src/assets/images/blog_background.jpg",
       "title": "Maheshwari Enterprises",
       "category": "Composite Plumbing",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",
@@ -236,7 +236,7 @@
     },
     {
       "id": 5,
-      "img": "/img",
+      "img": "/src/assets/images/blog_background.jpg",
       "title": "Maheshwari Enterprises",
       "category": "Composite Plumbing",
       "description": "The fog was as thick as pea soup. This was a problem. Gary was driving but couldn't see a thing in front of him. He knew he should stop, but the road was narrow so if he did, it would be right in the center of the road. He was sure that another car would end up rear-ending him, so he continued forward despite the lack of visibility. This was an unwise move.",

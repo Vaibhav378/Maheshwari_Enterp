@@ -14,11 +14,10 @@ const BlogDetails = () => {
   // Find the blog item with matching id
   const blogItem = blogData.blogs.find((blog) => blog.id === numericBlogId);
 
-  const like = parseInt(blogItem.likes);
-  console.log(like + 1);
-  const [likes, setLikes] = useState(like); // Initial like count is 10
-  const [liked, setLiked] = useState(false); // Initial state of like button
-  
+  // State for like count and like button
+  const [likes, setLikes] = useState(parseInt(blogItem.likes));
+  const [liked, setLiked] = useState(false);
+
   // Sort blogs by date
   const sortedBlogs = [...blogData.blogs].sort((a, b) => {
     const dateA = new Date(a.publish_date.split("/").reverse().join("/"));
@@ -26,21 +25,13 @@ const BlogDetails = () => {
     return dateB - dateA;
   });
 
-  console.log("*latest blogs", sortedBlogs);
-
   // Get the latest 4 blogs
   const latestBlogs = sortedBlogs.slice(0, 4);
-  console.log(latestBlogs);
 
-  const like = parseInt(blogItem.likes);
-  console.log(like + 1);
-  const [likes, setLikes] = useState(like); // Initial like count is 10
-  const [liked, setLiked] = useState(false); // Initial state of like button
-
+  // Handle like button click
   const handleLike = () => {
     if (!liked) {
       setLikes(likes + 1); // Increment like count
-      console.log(likes);
     } else {
       setLikes(likes - 1); // Decrement like count if already liked
     }
@@ -50,14 +41,14 @@ const BlogDetails = () => {
   return (
     <>
       <div className="blog-bg">
-        <img src="/src/assets/images/7.jpg" alt="Blog Background"></img>
+        <img src="/src/assets/images/7.jpg" alt="Blog Background" />
         <h2 className="blog-head">Blogs/</h2>
       </div>
       <div className="blog-details-container">
         <div className="blog-details-leftSide">
           <div className="blog-details-data">
             <div className="bd-img">
-              <img src={blogItem.img}></img>
+              <img src={blogItem.img} alt="Blog" />
             </div>
 
             <div className="bd-head">{title}</div>
@@ -93,8 +84,8 @@ const BlogDetails = () => {
           <h2>Recent Blogs</h2>
           <ul>
             {latestBlogs.map((blog) => (
-              <Link to={`/blog/${blog.title}/${blog.id}`}>
-                <li key={blog.id}>
+              <Link to={`/blog/${blog.title}/${blog.id}`} key={blog.id}>
+                <li>
                   <span>{blog.title}</span>
                   <div className="bd_latestBlog_author">
                     <div>By {blog.author},</div>
@@ -110,4 +101,4 @@ const BlogDetails = () => {
   );
 };
 
-export default BlogDetails;
+export default BlogDetails;

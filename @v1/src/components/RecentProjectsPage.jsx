@@ -63,69 +63,22 @@ const RecentProjectsPage = () => {
           <button onClick={toggleSidebar}>
             {sidebarVisible ? <RxCross2 /> : <IoReorderThreeOutline />}
           </button>
-          {activeProject === "Tile Adhesives" && (
-            <div className="project-details">
-              <h2>Tile Adhesives</h2>
-              {recentData["Tile Adheshives"].map((item) => (
-                <>
-                  <img
-                    src={item.img}
-                    style={{ height: "200px", width: "200px" }}
-                  ></img>
-                  <p>{item.title}</p>
-                  <p>{item.description}</p>
-                </>
+          <div className="project-details">
+            <h2>{activeProject}</h2>
+            <div className="rp-project-details">
+              {recentData[activeProject]?.map((item) => (
+                <div>
+                  <img src={item.img}></img>
+                  <p className="rp-pd-title">{item.title}</p>
+                  <p className="rp-pd-desc">{item.description}</p>
+                </div>
               ))}
             </div>
-          )}
-          {activeProject === "WaterProofing Textures" && (
-            <div className="project-details">
-              <h2>WaterProofing Textures</h2>
-              {recentData["WaterProofing"].map((item) => (
-                <>
-                  <img
-                    src={item.img}
-                    style={{ height: "200px", width: "200px" }}
-                  ></img>
-                  <p>{item.title}</p>
-                  <p>{item.description}</p>
-                </>
-              ))}
-            </div>
-          )}
-          {activeProject === "Termite Treatment" && (
-            <div className="project-details">
-              <h2>Termite Treatement</h2>
-              {recentData["Termites"].map((item) => (
-                <>
-                  <img
-                    src={item.img}
-                    style={{ height: "200px", width: "200px" }}
-                  ></img>
-                  <p>{item.title}</p>
-                  <p>{item.description}</p>
-                </>
-              ))}
-            </div>
-          )}
-          {activeProject === "Composite Plumbing" && (
-            <div className="project-details">
-              <h2>Composite Plumbing</h2>
-              {recentData["Composite Plumbing"].map((item) => (
-                <>
-                  <img
-                    src={item.img}
-                    style={{ height: "200px", width: "200px" }}
-                  ></img>
-                  <p>{item.title}</p>
-                  <p>{item.description}</p>
-                </>
-              ))}
-            </div>
-          )}
+          </div>
         </div>
       </div>
     </>
   );
+};
 
 export default RecentProjectsPage;
