@@ -3669,365 +3669,273 @@
       "id": "12",
       "category": "products",
       "title": " NCL",
-      "description": "Being the Pioneer of multilayer pipes (PE-AL-PE) in India since 1996, KiTEC is now been recognised for its excellence in quality KiTEC pipe uses special polyethylene grade which is hygienic, non-toxic and smooth. The middle aluminum layer is impermeable. This structure provides KiTEC pipe the advantages of both metal and plastic while avoiding all the weaknesses associated with these materials.",
+      "description": "NCL Buildtek Ltd. is a part of the prestigious ₹3000 crore NCL Group with its presence in various sectors with construction & building materials being its major chunk of portfolio.NCL Buildtek Ltd. is a 30+ year legacy brand offering multiple quality innovative product ranges in Windows, Doors, Putties, Wall Paints, textures & a strong presence in the market with Fly-ash blocks & Tile Adhesives.",
       "companyItems": [
         {
-          "itemTitle": "NCL Paints",
-          "itemImage": "/assets/images/NCl/Primer Interior.png",
-          "itemDesc": "Compression Type End Connection Quarter Turn Isolating Ball Valve for (PE-Al-PE) Composite Pressure Pipes.",
+          "itemTitle": "Gaiety (Acrylic Emulsion Interior Paint)",
+          "itemImage": "/assets/images/NCl/Gaiety.png",
+          "itemDesc": "NCL Gaiety, an economical interior acrylic emulsion paint, combines value with quality. Offering good washability, surface protection, and a smooth finish, it resists bacteria and fungi. Available in pleasing colors, it’s applied in two coats using a brush or roller on primed interior surfaces, providing an affordable yet durable solution for interiors.",
           "itemDetails": {
             "itemSizes": [
               {
-                "size": "20L",
-                "suitableFor": "Alltimate Exterior",
-                "extra1": "20L X 1"
-              },
-              {
-                "size": "10L",
-                "suitableFor": "Alltimate Exterior",
-                "extra1": "10L X 1"
-              },
+                "size": "1L",
+                "suitableFor": " Gaiety",
+                "extra1": "1L X 6"
+              } ,
               {
                 "size": "4L",
-                "suitableFor": "Alltimate Exterior",
+                "suitableFor": " Gaiety",
                 "extra1": "4L X 4"
               },
               {
-                "size": "1L",
-                "suitableFor": "Alltimate Exterior",
-                "extra1": "1L X 6"
-              },
-              {
-                "size": "20L",
-                "suitableFor": " Gaiety Interior",
-                "extra1": "20L X 1"
-              },
-              {
                 "size": "10L",
-                "suitableFor": " Gaiety Interior",
+                "suitableFor": " Gaiety",
                 "extra1": "10L X 1"
               },
               {
-                "size": "4L",
-                "suitableFor": " Gaiety Interior",
-                "extra1": "4L X 4"
-              },
-              {
-                "size": "1L",
-                "suitableFor": " Gaiety Interior",
-                "extra1": "1L X 6"
-              },
-              {
                 "size": "20L",
-                "suitableFor": " Cement Primer",
+                "suitableFor": " Gaiety",
                 "extra1": "20L X 1"
               }
             ]
           }
         },
         {
-          "itemTitle": "NCL Paints-Harmony",
-          "itemImage": "/assets/images/NCl/Harmony.jpg",
-          "itemDesc": "Compression Type End Connection Quarter Turn Isolating Ball Valve for (PE-Al-PE) Composite Pressure Pipes.",
+          "itemTitle": "Flora (Premium Acrylic Emulsion Interior Paint)",
+          "itemImage": "/assets/images/NCl/Flora.png",
+          "itemDesc": "NCL Flora offers premium-grade, ultra-smooth 100% acrylic emulsion paint for interiors. Achieve a luxurious, clean environment with flora freshio, an air-purifying and washable choice. For smooth, dirt-free walls, flora petals provide comfort and elegance. With exceptional adhesion, resistance to water, bacteria, and fungi, NCL Flora guarantees a rich, impeccable finish.",
           "itemDetails": {
             "itemSizes": [
               {
-                "size": "20L",
-                "suitableFor": " Harmony Exterior",
-                "extra1": "20L X 1"
-              },
-              {
-                "size": "10L",
-                "suitableFor": " Harmony Exterior",
-                "extra1": "10L X 1"
+                "size": "1L",
+                "suitableFor": " Flora",
+                "extra1": "1L X 6"
               },
               {
                 "size": "4L",
-                "suitableFor": " Harmony Exterior",
+                "suitableFor": " Flora",
                 "extra1": "4L X 4"
               },
               {
-                "size": "1L",
-                "suitableFor": " Harmony Exterior",
-                "extra1": "1L X 6"
+                "size": "10L",
+                "suitableFor": " Flora",
+                "extra1": "10L X 1"
+              },
+              {
+                "size": "20L",
+                "suitableFor": " Flora",
+                "extra1": "20L X 1"
               }
             ]
           }
         },
         {
-          "itemTitle": "NCL Paints-Optima",
-          "itemImage": "/assets/images/NCl/Optima.jpg",
-          "itemDesc": "Compression Type End Connection Quarter Turn Isolating Ball Valve for (PE-Al-PE) Composite Pressure Pipes.",
+          "itemTitle": "Optima (Economical Emulsion Exterior Paint)",
+          "itemImage": "/assets/images/NCl/Optima.png",
+          "itemDesc": "NCL Optima, an economical exterior emulsion paint, is expertly formulated with special pigments, inorganic fillers, and acrylic binders to achieve a smooth finish. Ideal for brush, roller, and spray applications, it offers pleasing colors for exteriors. Apply two coats over primed exterior walls, with a roller for a rich look. Its water-resistant formula ensures a budget-friendly, smooth, and enduring finish.",
           "itemDetails": {
             "itemSizes": [
+              
               {
-                "size": "20L",
-                "suitableFor": " Optima Exterior",
-                "extra1": "20L X 1"
-              },
-              {
-                "size": "10L",
-                "suitableFor": " Optima Exterior",
-                "extra1": "10L X 1"
+                "size": "1L",
+                "suitableFor": " Optima",
+                "extra1": "1L X 6"
               },
               {
                 "size": "4L",
-                "suitableFor": " Optima Exterior",
+                "suitableFor": " Optima",
                 "extra1": "4L X 4"
               },
               {
-                "size": "1L",
-                "suitableFor": " Optima Exterior",
-                "extra1": "1L X 6"
+                "size": "10L",
+                "suitableFor": " Optima",
+                "extra1": "10L X 1"
+              },
+              {
+                "size": "20L",
+                "suitableFor": " Optima",
+                "extra1": "20L X 1"
               }
             ]
           }
         },
         {
-          "itemTitle": "NCL Paints-Flora",
-          "itemImage": "/assets/images/NCl/Flora.jpg",
-          "itemDesc": "Compression Type End Connection Quarter Turn Isolating Ball Valve for (PE-Al-PE) Composite Pressure Pipes.",
+          "itemTitle": "Harmony (Emulsion Exterior-grade Paint)",
+          "itemImage": "/assets/images/NCl/Harmony.png",
+          "itemDesc": "NCL Harmony, an exterior-grade emulsion paint, offers a smooth matt finish to exterior walls. Comprising inorganic fillers, additives, and acrylic polymers, it provides strong adhesion and durability. Applied in two coats over primed exterior surfaces, it delivers vibrant colors, longevity, and UV protection",
           "itemDetails": {
             "itemSizes": [
               {
-                "size": "20L",
-                "suitableFor": " Flora Interior",
-                "extra1": "20L X 1"
+                "size": "1L",
+                "suitableFor": " Harmony",
+                "extra1": "1L X 6"
               },
-              {
-                "size": "10L",
-                "suitableFor": " Flora Interior",
-                "extra1": "10L X 1"
-              },
+              
               {
                 "size": "4L",
-                "suitableFor": " Flora Interior",
+                "suitableFor": " Harmony",
                 "extra1": "4L X 4"
               },
               {
-                "size": "1L",
-                "suitableFor": " Flora Interior",
-                "extra1": "1L X 6"
+                "size": "10L",
+                "suitableFor": " Harmony",
+                "extra1": "10L X 1"
+              },
+              {
+                "size": "20L",
+                "suitableFor": " Harmony",
+                "extra1": "20L X 1"
               }
             ]
           }
         },
         {
-          "itemTitle": "NCL Paints-Cemenet Primer(Interior)",
-          "itemImage": "/assets/images/NCl/Primer Interior.png",
-          "itemDesc": "Compression Type End Connection Quarter Turn Isolating Ball Valve for (PE-Al-PE) Composite Pressure Pipes.",
+          "itemTitle": "Alltimate (Premium Pure Acrylic Exterior Paint) ",
+          "itemImage": "/assets/images/NCl/Alatimate.png",
+          "itemDesc": "NCL Alltimate, a premium pure acrylic paint, is expertly formulated for an ultrasmooth surface finish. Its chosen raw materials offer durability, smoothness, adhesion, and beauty. Surface-protecting agents guard against common fungi and algae. Apply with care over primed surfaces for the best results. NCL Alltimate the ultimate choice for an ultra-smooth, protected exterior finish.",
           "itemDetails": {
             "itemSizes": [
               {
-                "size": "20L",
-                "suitableFor": " Cement Primer",
-                "extra1": "20L X 1"
-              },
-              {
-                "size": "10L",
-                "suitableFor": " Cement Primer",
-                "extra1": "10L X 1"
+                "size": "1L",
+                "suitableFor": "Alltimate",
+                "extra1": "1L X 6"
               },
               {
                 "size": "4L",
-                "suitableFor": " Cement Primer",
+                "suitableFor": "Alltimate",
                 "extra1": "4L X 4"
               },
               {
-                "size": "1L",
-                "suitableFor": " Cement Primer",
-                "extra1": "1L X 6"
+                "size": "10L",
+                "suitableFor": "Alltimate",
+                "extra1": "10L X 1"
+              },
+              {
+                "size": "20L",
+                "suitableFor": "Alltimate",
+                "extra1": "20L X 1"
               }
             ]
           }
         },
         {
-          "itemTitle": "NCL Paints-Cemenet Primer(Exterior)",
-          "itemImage": "/assets/images/NCl/Primer Exterior.jpg",
-          "itemDesc": "Compression Type End Connection Quarter Turn Isolating Ball Valve for (PE-Al-PE) Composite Pressure Pipes.",
+          "itemTitle": "Top Coat (Natural Exterior Emulsion) ",
+          "itemImage": "/assets/images/NCl/Top_coat.png",
+          "itemDesc": "NCL Top Coat is crafted from natural materials, provides unparalleled protection and enhancement to exterior building surfaces. With warm, natural shades that harmonize with surroundings, it delivers year-round protection. This alkaline-resistant paint boasts excellent binding, flexibility, washability, and UV protection, bolstered by anti-fungal and anti-bacterial agents. A natural choice for surface preservation and aesthetics.",
           "itemDetails": {
             "itemSizes": [
               {
-                "size": "20L",
-                "suitableFor": " Cement Primer Exterior",
-                "extra1": "20L X 1"
+                "size": "5kg",
+                "suitableFor": " Top Coat White",
+                "extra1": "5kg X 4"
               },
               {
-                "size": "10L",
-                "suitableFor": " Cement Primer Exterior",
-                "extra1": "10L X 1"
-              },
-              {
-                "size": "4L",
-                "suitableFor": " Cement Primer Exterior",
-                "extra1": "4L X 4"
-              },
-              {
-                "size": "1L",
-                "suitableFor": " Cement Primer Exterior",
-                "extra1": "1L X 6"
-              }
-            ]
-          }
-        },
-        {
-          "itemTitle": " NCL Distemper",
-          "itemImage": "/assets/images/NCl/Delight.jpeg",
-          "itemDesc": "Compression Type End Connection Quarter Turn Isolating Ball Valve for (PE-Al-PE) Composite Pressure Pipes.",
-          "itemDetails": {
-            "itemSizes": [
-              {
-                "size": "20kg",
-                "suitableFor": " Delight (Acrylic Water Based Distemper)",
-                "extra1": "20kg X 1"
-              },
-              {
-                "size": "10kg",
-                "suitableFor": " Delight (Acrylic Water Based Distemper)",
-                "extra1": "10kg X 1"
+                "size": "25kg",
+                "suitableFor": " Top Coat White",
+                "extra1": "25kg X 1"
               },
               {
                 "size": "5kg",
-                "suitableFor": " Delight (Acrylic Water Based Distemper)",
+                "suitableFor": " Top Coat Colour",
                 "extra1": "5kg X 4"
               },
+              {
+                "size": "25kg",
+                "suitableFor": " Top Coat Colour",
+                "extra1": "25kg X 1"
+              }
+              ]
+          }
+        },
+        {
+          "itemTitle": "Delight (Acrylic Washable Distemper)",
+          "itemImage": "/assets/images/NCl/Delight.png",
+          "itemDesc": "NCL Delight is a budget-friendly acrylic distemper, ready to use for interior surfaces. Comprising inorganic fillers, copolymers, and additives, its available in a range of pleasing shades. Offering both surface protection and aesthetic appeal, it ensures good washability, bacteria, and fungus resistance. Apply two coats for a charming, economical upgrade to your walls.",
+          "itemDetails": {
+            "itemSizes": [
+             
               {
                 "size": "1kg",
-                "suitableFor": " Delight (Acrylic Water Based Distemper)",
+                "suitableFor": " Delight",
                 "extra1": "1kg X 6"
+              },
+              {
+                "size": "5kg",
+                "suitableFor": " Delight",
+                "extra1": "5kg X 4"
+              },
+              {
+                "size": "10kg",
+                "suitableFor": " Delight",
+                "extra1": "10kg X 1"
+              },
+              {
+                "size": "20kg",
+                "suitableFor": " Delight",
+                "extra1": "20kg X 1"
               }
-            ]
+              
+              ]
           }
         },
         {
-          "itemTitle": " NCL Texture",
-          "itemImage": "/assets/images/NCl/Top-coat.png",
-          "itemDesc": "Compression Type End Connection Quarter Turn Isolating Ball Valve for (PE-Al-PE) Composite Pressure Pipes.",
+          "itemTitle": "Primer (Water Based Cement Primer)",
+          "itemImage": "/assets/images/NCl/Primer.png",
+          "itemDesc": "NCL Universal Acrylic Primer composed of inorganic fillers, additives, and acrylic polymers, lays the foundation for NCL cement primer. Specially formulated for exterior use, this acrylic primer boasts strong surface adhesion and bonds seamlessly with paint/plaster. Its exceptional alkaline resistance suits concrete and cement plastered surfaces, enhancing compatibility with NCL Alltek products. Choose a dependable base for optimal adhesion.",
           "itemDetails": {
             "itemSizes": [
               {
-                "size": "25kg",
-                "suitableFor": " Top Coat White (Acrylic Smooth Exterior)",
-                "extra1": "25kg X 1"
+                "size": "1L",
+                "suitableFor": " Cement Primer Interior",
+                "extra1": "1L X 6"
               },
+              {
+                "size": "4L",
+                "suitableFor": " Cement Primer Interior",
+                "extra1": "4L X 4"
+              },
+              {
+                "size": "10L",
+                "suitableFor": " Cement Primer Interior",
+                "extra1": "10L X 1"
+              },
+              {
+                "size": "20L",
+                "suitableFor": " Cement Primer Interior",
+                "extra1": "20L X 1"
+              },
+              {
+                "size": "1L",
+                "suitableFor": " Cement Primer Exterior",
+                "extra1": "1L X 6"
+              },
+              {
+                "size": "4L",
+                "suitableFor": " Cement Primer Exterior",
+                "extra1": "4L X 4"
+              },
+              {
+                "size": "10L",
+                "suitableFor": " Cement Primer Exterior",
+                "extra1": "10L X 1"
+              },
+              {
+                "size": "20L",
+                "suitableFor": " Cement Primer Exterior",
+                "extra1": "20L X 1"
+              }
+              ]
+          }
+        },
+        {
+          "itemTitle": "Deco Orient (Texture)",
+          "itemImage": "/assets/images/NCl/Deco_Texture.webp",
+          "itemDesc": "Deco orient base: Decorative architectural plaster for exteriors. off-white color, 2mm thickness applied with trowel, creates unique patterns made with marble powder, silica sand, quartz in acrylic binding. Excellent adhesion, crack-resistant, and flexible. Available in small, medium, big, and jumbo lines for various surface patterns.",
+          "itemDetails": {
+            "itemSizes": [
               {
                 "size": "5kg",
-                "suitableFor": " Top Coat White (Acrylic Smooth Exterior)",
-                "extra1": "5kg X 4"
-              },
-              {
-                "size": "25kg",
-                "suitableFor": " Top Coat Colour (Acrylic Smooth Exterior)",
-                "extra1": "25kg X 1"
-              },
-              {
-                "size": "5kg",
-                "suitableFor": " Top Coat Colour (Acrylic Smooth Exterior)",
-                "extra1": "5kg X 4"
-              },
-              {
-                "size": "25kg",
-                "suitableFor": " Base Coat White Primer (Bag Packaging)",
-                "extra1": "25kg X 1"
-              },
-              {
-                "size": "25kg",
-                "suitableFor": " Base Coat Colour Primer (Bag Packaging)",
-                "extra1": "25kg X 1"
-              },
-              {
-                "size": "25kg",
-                "suitableFor": " Superfine Interior Wall Putty(Bag Packing)",
-                "extra1": "25kg X 1"
-              },
-              {
-                "size": "5kg",
-                "suitableFor": " Superfine Interior Wall Putty(Bag Packing)",
-                "extra1": "5kg X 4"
-              },
-              {
-                "size": "20kg",
-                "suitableFor": " Superfine Interior Wall Putty(Bucket Packing)",
-                "extra1": "20kg X 1"
-              },
-              {
-                "size": "10kg",
-                "suitableFor": " Superfine Interior Wall Putty(Bucket Packing)",
-                "extra1": "10kg X 1"
-              },
-              {
-                "size": "5kg",
-                "suitableFor": " Superfine Interior Wall Putty(Bucket Packing)",
-                "extra1": "5kg X 4"
-              },
-              {
-                "size": "25kg",
-                "suitableFor": " Superfine W/R(Bag Packing)",
-                "extra1": "25kg X 1"
-              },
-              {
-                "size": "5kg",
-                "suitableFor": " Superfine W/R(Bag Packing)",
-                "extra1": "5kg X 4"
-              },
-              {
-                "size": "20kg",
-                "suitableFor": " Superfine W/R(Bucket Packing)",
-                "extra1": "20kg X 1"
-              },
-              {
-                "size": "10kg",
-                "suitableFor": " Superfine W/R(Bucket Packing)",
-                "extra1": "10kg X 1"
-              },
-              {
-                "size": "5kg",
-                "suitableFor": " Superfine W/R(Bucket Packing)",
-                "extra1": "5kg X 4"
-              },
-              {
-                "size": "25kg",
-                "suitableFor": " Superfine Exterior(Bag Packing)",
-                "extra1": "25kg X 1"
-              },
-              {
-                "size": "5kg",
-                "suitableFor": " Superfine Exterior(Bag Packing)",
-                "extra1": "5kg X 4"
-              },
-              {
-                "size": "20kg",
-                "suitableFor": " Superfine Exterior(Bucket Packing)",
-                "extra1": "20kg X 1"
-              },
-              {
-                "size": "10kg",
-                "suitableFor": " Superfine Exterior(Bucket Packing)",
-                "extra1": "10kg X 1"
-              },
-              {
-                "size": "5kg",
-                "suitableFor": " Superfine Exterior(Bucket Packing)",
-                "extra1": "5kg X 4"
-              },
-              {
-                "size": "25kg",
-                "suitableFor": " Goldline White(Roller Finish)",
-                "extra1": "25kg X 1"
-              },
-              {
-                "size": "5kg",
-                "suitableFor": " Goldline White(Roller Finish)",
-                "extra1": "5kg X 4"
-              },
-              {
-                "size": "25kg",
-                "suitableFor": " Goldline Natural Colour(Roller Finish)",
-                "extra1": "25kg X 1"
-              },
-              {
-                "size": "5kg",
-                "suitableFor": " Goldline Natural Colour(Roller Finish)",
+                "suitableFor": " Deco Orient Base(Bag Packing)",
                 "extra1": "5kg X 4"
               },
               {
@@ -4037,13 +3945,8 @@
               },
               {
                 "size": "5kg",
-                "suitableFor": " Deco Orient Base(Bag Packing)",
-                "extra1": "5kg X 4"
-              },
-              {
-                "size": "20kg",
                 "suitableFor": " Deco Orient Base(Bucket Packing)",
-                "extra1": "20kg X 1"
+                "extra1": "5kg X 4"
               },
               {
                 "size": "10kg",
@@ -4051,14 +3954,9 @@
                 "extra1": "10kg X 1"
               },
               {
-                "size": "5kg",
+                "size": "20kg",
                 "suitableFor": " Deco Orient Base(Bucket Packing)",
-                "extra1": "5kg X 4"
-              },
-              {
-                "size": "25kg",
-                "suitableFor": " Deco Orient Natural Colour(Trovel Finish)",
-                "extra1": "25kg X 1"
+                "extra1": "20kg X 1"
               },
               {
                 "size": "5kg",
@@ -4067,61 +3965,47 @@
               },
               {
                 "size": "25kg",
-                "suitableFor": " Cherlina",
+                "suitableFor": " Deco Orient Natural Colour(Trovel Finish)",
                 "extra1": "25kg X 1"
-              },
-              {
-                "size": "5kg",
-                "suitableFor": " Cherlina",
-                "extra1": "5kg X 4"
-              },
-              {
-                "size": "25kg",
-                "suitableFor": " Dune White & Colour",
-                "extra1": "25kg X 1"
-              },
-              {
-                "size": "5kg",
-                "suitableFor": " Dune White & Colour",
-                "extra1": "5kg X 4"
-              },
-              {
-                "size": "25kg",
-                "suitableFor": " Trendy White & Colour",
-                "extra1": "25kg X 1"
-              },
-              {
-                "size": "5kg",
-                "suitableFor": " Trendy White & Colour",
-                "extra1": "5kg X 4"
               }
-            ]
+              ]
           }
         },
         {
-          "itemTitle": " NCL White Cement Based Wall Putty",
-          "itemImage": "/assets/images/NCl/Putty.jpg",
-          "itemDesc": "Compression Type End Connection Quarter Turn Isolating Ball Valve for (PE-Al-PE) Composite Pressure Pipes.",
+          "itemTitle": "Superfine Exterior (Roller Finish)",
+          "itemImage": "/assets/images/NCl/Superfine_Exterior.webp",
+          "itemDesc": "NCL Superfine Exterior is an Exterior grade ready mix plaster for application over levelled sand finished cement plastered walls and ceilings, panel boards like gypsum & bison panels etc. It is made for ease of application in a ready mixed paste form with specially selected inert mineral fillers, polymers, additives, acrylic binder etc. NCL Superfine can be applied directly over cement plastered surface without applying primer coat, because of its good surface adhesion, and alkaline resistance, thus saving primer cost over cement walls.",
           "itemDetails": {
             "itemSizes": [
               {
-                "size": "40kg",
-                "suitableFor": "Skimcoat Wall Putty",
-                "extra1": " 40 kg X 1"
+                "size": "5kg",
+                "suitableFor": " Superfine Exterior(Bag Packing)",
+                "extra1": "5kg X 4"
               },
               {
-                "size": "20kg (T)",
-                "suitableFor": "Skimcoat Wall Putty",
-                "extra1": " 20 kg X 1"
+                "size": "25kg",
+                "suitableFor": " Superfine Exterior(Bag Packing)",
+                "extra1": "25kg X 1"
               },
               {
-                "size": "20kg (WT)",
-                "suitableFor": "Skimcoat Wall Putty",
-                "extra1": " 20 kg X 1"
+                "size": "5kg",
+                "suitableFor": " Superfine Exterior(Bucket Packing)",
+                "extra1": "5kg X 4"
+              },
+              {
+                "size": "10kg",
+                "suitableFor": " Superfine Exterior(Bucket Packing)",
+                "extra1": "10kg X 1"
+              },
+              {
+                "size": "20kg",
+                "suitableFor": " Superfine Exterior(Bucket Packing)",
+                "extra1": "20kg X 1"
               }
-            ]
+              ]
           }
         }
+       
       ]
     }
   ],
